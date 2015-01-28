@@ -1,3 +1,19 @@
 // Place all the styles related to the top controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body{
+  color: #FFF;
+  background-color: #1ABC9C;
+}
+.container{
+  margin-top: 20%;
+  text-align: center;
+  width: 50%;
+}
+pre {
+  overflow: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
