@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/mono0x/extractcontent.git
+  revision: 62ff7a67a0c8f75f7be395f543050294cbbd37ab
+  specs:
+    extractcontent (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -168,6 +174,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  extractcontent!
   jbuilder (~> 2.0)
   jquery-rails
   less-rails

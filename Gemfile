@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'extractcontent', :git => 'https://github.com/mono0x/extractcontent.git'
 
 group :development, :test do
   gem 'byebug'
